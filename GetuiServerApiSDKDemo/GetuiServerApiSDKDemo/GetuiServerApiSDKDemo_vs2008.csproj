@@ -37,7 +37,7 @@
   <ItemGroup>
     <Reference Include="Google.ProtocolBuffers, Version=2.4.1.473, Culture=neutral, PublicKeyToken=55f7125234beb589, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>protobuffer\Google.ProtocolBuffers.dll</HintPath>
+      <HintPath>..\..\GetuiServerApiSDK\GetuiServerApiSDK\protobuf\Google.ProtocolBuffers.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
